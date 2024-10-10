@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AWVoScripter/Scripts/refs/heads/main/Script-hub-by-awvo"))()
